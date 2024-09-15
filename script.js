@@ -31,7 +31,7 @@ function init() {
 			container.addChild(heart);
 		}
 
-  var text = new createjs.Text("Você é o Amor da Minha Vida toda! P+J", "bold 24px Arial", "#312");
+  var text = new createjs.Text("Você é o Amor da minha Vida todinha! P+J", "bold 24px Arial", "#312");
   text.textAlign = "center";
   text.x = w / 2;
   text.y = h / 2 - text.getMeasuredLineHeight();
